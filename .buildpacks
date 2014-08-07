@@ -1,2 +1,6 @@
-https://github.com/heroku/heroku-buildpack-python
-https://github.com/stomita/heroku-buildpack-phantomjs
+/* BUILDPACKS */
+
+{
+  "iSC_Server": v0.1;
+  "iSC_Track": v0.1-BETA;
+};
