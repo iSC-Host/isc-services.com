@@ -1,1 +1,0 @@
-from http://ssl.gstatic.com/ui/v1/activityindicator/loading.gif
