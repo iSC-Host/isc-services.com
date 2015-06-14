@@ -4,7 +4,7 @@
 A first and third party site(s) of [iSC Group](http://group.isc) to interact for you with on the Web.
 
 ## Links
-### REDIRECT
+### REDIRECT...
 ... to mainpage:
 
 * isc-services.com
