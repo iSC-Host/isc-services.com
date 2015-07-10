@@ -1,7 +1,7 @@
 /* BUILDPACKS */
 
 {
-  "iSC_Server": v0.1;
-  "iSC_Track": v0.1-BETA;
+  "iSC Server": v1.0;
+  "iSC Track": v1.0-beta;
   "suriyaaOS": v1.0-alpha;
 };
