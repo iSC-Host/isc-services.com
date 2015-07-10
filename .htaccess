@@ -1,0 +1,28 @@
+###############################################################################
+##
+## .htaccess for iSC Services
+##
+################################### START #####################################
+
+## Begin - RewriteEngine enabled
+RewriteEngine On
+
+## Begin - File execution order
+DirectoryIndex index.php index.html
+
+## Begin - RewriteCond - from http:// to https://
+RewriteRule ^(.*)$ https://isc-host.github.io/$1 [R=301,L]
+
+## Begin - Specifc Error Documents
+#### badrequest
+ErrorDocument 400 /errors/badrequest.html
+#### authreqd
+ErrorDocument 401 /errors/authreqd.html
+#### forbid
+ErrorDocument 403 /errors/forbid.html
+#### not found
+ErrorDocument 404 /errors/404/w3layouts/index.html
+#### serverr
+ErrorDocument 500 /errors/serverr.html
+
+#################################### END #######################################
