@@ -12,6 +12,8 @@
 * webservices.isc
 * 1stpartyservices.isc
 * 3rdpartyservices.isc
+* [j.mp/iSCServices](http://j.mp/iSCServices)
+* [isc-host.github.io/isc-services.com](http://isc-host.github.io/isc-services.com/)
 * ...
 
 ----
